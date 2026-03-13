@@ -1,0 +1,4 @@
+This file is created & directly commited without sending to staging area
+
+This new changed is introduced(File is now already in staging area but changed is happened)
+changed again

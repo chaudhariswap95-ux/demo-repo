@@ -1,0 +1,9 @@
+This is version 1 of my project
+
+I made 1 change & i want this to go to commit
+Changed done by HARRY
+
+
+Git will also tell what are the c
+
+Again modify
